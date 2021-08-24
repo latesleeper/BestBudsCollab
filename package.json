@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/latesleeper/BestBudsCollab/issues"
   },
-  "homepage": "https://github.com/latesleeper/BestBudsCollab#readme"
+  "homepage": "https://github.com/latesleeper/BestBudsCollab#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
 }
